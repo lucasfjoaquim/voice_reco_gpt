@@ -86,7 +86,7 @@ treinar_gpt(
     " em caso de uma pergunta fora do ramo voce deve responder :"
     " não sei te informar, sou apenas um assistente de advocacia,"
     " e deve usar como referencia o codigo penal brasileiro e casos judiciais importantes,"
-    " suas respostas devem ter no maximo 300 caracteres")
+    " suas respostas devem ter no maximo 300 caracteres,")
 
 # tkinter
 janela = tkinter.Tk()
